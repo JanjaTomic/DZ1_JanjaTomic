@@ -1,0 +1,14 @@
+C:\Users\Janja\source\repos\DZ1\DZ1\obj\Debug\netcoreapp3.0\UI.csprojAssemblyReference.cache
+C:\Users\Janja\source\repos\DZ1\DZ1\obj\Debug\netcoreapp3.0\UI.AssemblyInfoInputs.cache
+C:\Users\Janja\source\repos\DZ1\DZ1\obj\Debug\netcoreapp3.0\UI.AssemblyInfo.cs
+C:\Users\Janja\source\repos\DZ1\DZ1\bin\Debug\netcoreapp3.0\UI.exe
+C:\Users\Janja\source\repos\DZ1\DZ1\bin\Debug\netcoreapp3.0\UI.deps.json
+C:\Users\Janja\source\repos\DZ1\DZ1\bin\Debug\netcoreapp3.0\UI.runtimeconfig.json
+C:\Users\Janja\source\repos\DZ1\DZ1\bin\Debug\netcoreapp3.0\UI.runtimeconfig.dev.json
+C:\Users\Janja\source\repos\DZ1\DZ1\bin\Debug\netcoreapp3.0\UI.dll
+C:\Users\Janja\source\repos\DZ1\DZ1\bin\Debug\netcoreapp3.0\UI.pdb
+C:\Users\Janja\source\repos\DZ1\DZ1\bin\Debug\netcoreapp3.0\Logic.dll
+C:\Users\Janja\source\repos\DZ1\DZ1\bin\Debug\netcoreapp3.0\Logic.pdb
+C:\Users\Janja\source\repos\DZ1\DZ1\obj\Debug\netcoreapp3.0\UI.csproj.CopyComplete
+C:\Users\Janja\source\repos\DZ1\DZ1\obj\Debug\netcoreapp3.0\UI.dll
+C:\Users\Janja\source\repos\DZ1\DZ1\obj\Debug\netcoreapp3.0\UI.pdb

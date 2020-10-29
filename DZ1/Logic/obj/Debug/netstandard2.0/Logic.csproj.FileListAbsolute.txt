@@ -1,0 +1,8 @@
+C:\Users\Janja\source\repos\DZ1\Logic\bin\Debug\netstandard2.0\Logic.deps.json
+C:\Users\Janja\source\repos\DZ1\Logic\bin\Debug\netstandard2.0\Logic.dll
+C:\Users\Janja\source\repos\DZ1\Logic\bin\Debug\netstandard2.0\Logic.pdb
+C:\Users\Janja\source\repos\DZ1\Logic\obj\Debug\netstandard2.0\Logic.csprojAssemblyReference.cache
+C:\Users\Janja\source\repos\DZ1\Logic\obj\Debug\netstandard2.0\Logic.AssemblyInfoInputs.cache
+C:\Users\Janja\source\repos\DZ1\Logic\obj\Debug\netstandard2.0\Logic.AssemblyInfo.cs
+C:\Users\Janja\source\repos\DZ1\Logic\obj\Debug\netstandard2.0\Logic.dll
+C:\Users\Janja\source\repos\DZ1\Logic\obj\Debug\netstandard2.0\Logic.pdb
